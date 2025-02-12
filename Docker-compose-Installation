@@ -5,4 +5,4 @@ curl -L https://github.com/docker/compose/releases/download/1.12.0/docker-compos
 docker-compose --version  
 
 #Giving permission to docker-compose executable file
-sudo chmod +x /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
